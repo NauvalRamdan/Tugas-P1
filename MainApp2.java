@@ -1,7 +1,7 @@
 public class MainApp {
     public static void main(String[] args) {
-        //panggil class PesawatTelpon
-        PesawatTelpon m = new PesawatTelpon();
+        //panggil class Telpon
+        Telpon m = new Telpon();
         //[nama class] [variabel buatanmu] = new [nama class]();
 
         m.setTransmiter("Dengan Siapa?");
